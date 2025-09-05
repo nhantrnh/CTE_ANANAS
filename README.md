@@ -79,7 +79,7 @@ Tải file `.zip` chứa toàn bộ dữ liệu và mô hình đã được chu�
 
 Script backtest sẽ tự động tải các "sản phẩm" cần thiết từ thư mục `model_artifacts` và thực hiện mô phỏng giao dịch.
 
-PHỤ LỤC:
+## PHỤ LỤC:
 
 ### 1. Chỉ số Phân tích Kỹ thuật (TA)
 Đây là toàn bộ các chỉ số dùng để phân tích biểu đồ và hành động giá.
