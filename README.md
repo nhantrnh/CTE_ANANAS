@@ -60,7 +60,7 @@ Sử dụng kịch bản này nếu **không có tài khoản API** hoặc chỉ
 **Bước 1: Tải Dữ liệu Đã Xử lý**
 Tải file `.zip` chứa toàn bộ dữ liệu và mô hình đã được chuẩn bị sẵn tại đây:
 
-**Link truy cập: ** https://drive.google.com/drive/u/0/folders/1lBdqcssDtcjMww3z5YtXum_4GxR_Uh4s
+**Link truy cập:** https://drive.google.com/drive/u/0/folders/1lBdqcssDtcjMww3z5YtXum_4GxR_Uh4s
 
 **Bước 2: Giải nén và Sắp xếp Thư mục**
 1.  Giải nén file vừa tải.
